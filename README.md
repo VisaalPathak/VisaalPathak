@@ -5,7 +5,7 @@
 ## About me
 
 - 💻 Computational Mathematics Student from **Kathmandu University**.
-- 🌱 I’m currently learning about**Data Science and Machine Learning**.
+- 🌱 I’m currently learning about **Data Science and Machine Learning**.
 - 📫 How to reach me **[visaalpathak@gmail.com](visaalpathak@gmail.com)**.
 - 🥅 2022 Goals: Learn more about **Machine Learning** and maybe dive into **Deep Learning and AI**.
 - ⚡ Fun fact about me: I love to draw, not a good artist though.
