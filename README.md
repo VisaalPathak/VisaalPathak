@@ -18,7 +18,7 @@
 <a href="https://www.anaconda.com/" target = "_blank"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/Anaconda_Logo.png/220px-Anaconda_Logo.png" alt="anaconda" width="65" height="40"/> </a><a href="https://jupyter.org/" target = "_blank"> <img src="https://jupyter.org/assets/logos/rectanglelogo-greytext-orangebody-greymoons.svg" alt="jupyter_notebook" width="85" height="40"/> </a>
 
 ---
-### 📕 Blogs posts
+### 📕 Blogs
 <!-- BLOG-POST-LIST:START -->
 - [Getting started with MySQL](https://visaalpathak.github.io/blog%20about%20mysql/getting-started-with-MySQL/)
 <!-- BLOG-POST-LIST:END -->
