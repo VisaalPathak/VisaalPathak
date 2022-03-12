@@ -20,6 +20,7 @@
 ---
 ### 📕 Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Getting started with MySQL](https://visaalpathak.github.io/blog%20about%20mysql/getting-started-with-MySQL/)
 <!-- BLOG-POST-LIST:END -->
 ---
 ### GitHub Stats
