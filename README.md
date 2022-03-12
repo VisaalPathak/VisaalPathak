@@ -22,6 +22,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Getting started with MySQL](https://visaalpathak.github.io/blog%20about%20mysql/getting-started-with-MySQL/)
 <!-- BLOG-POST-LIST:END -->
+* [visaalpathak.github.io](https://visaalpathak.github.io/posts/)
 ---
 ### GitHub Stats
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VisaalPathak&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" alt="VisaalPathak" /></p>
