@@ -20,6 +20,7 @@
 ---
 ### 📕 Blogs
 <!-- BLOG-POST-LIST:START -->
+- [SQLAlchemy Basics](https://visaalpathak.github.io/blog%20about%20sqlalchemy/SQLAlchemy-Basics/)
 - [Getting started with MySQL](https://visaalpathak.github.io/blog%20about%20mysql/getting-started-with-MySQL/)
 <!-- BLOG-POST-LIST:END -->
 * [visaalpathak.github.io](https://visaalpathak.github.io/posts/)
