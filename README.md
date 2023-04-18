@@ -1,13 +1,13 @@
 # Hello there!!!, I'm Bishal👋
 ---
-##### A Data Science and Machine Learning Enthusiast.
+##### Data Science and Machine Learning Enthusiast
 ---
 ## About me
 
 - 💻 Computational Mathematics Student from **Kathmandu University**.
 - 🌱 I’m currently learning about **Data Science and Machine Learning**.
-- 📫 How to reach me **[visaalpathak@gmail.com](visaalpathak@gmail.com)**.
-- 🥅 2022 Goals: Learn more about **Machine Learning** and maybe dive into **Deep Learning and AI**.
+- 📫 How to reach me? --> **[visaalpathak@gmail.com](visaalpathak@gmail.com)**.
+- 🥅 2023 Goals: Learn more about **Machine Learning** and maybe dive into **Deep Learning and AI**.
 - ⚡ Fun fact about me: I love to draw, not a good artist though.
 
 
@@ -25,10 +25,6 @@
 <!-- BLOG-POST-LIST:END -->
 * [visaalpathak.github.io](https://visaalpathak.github.io/posts/)
 ---
-### GitHub Stats
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VisaalPathak&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" alt="VisaalPathak" /></p>
-<img alt="VisaalPathak's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=VisaalPathak&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-
 ---
 ### Connect with me:
 
