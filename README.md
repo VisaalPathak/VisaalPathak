@@ -1,13 +1,13 @@
-# Hello there!!!, I'm Bishal👋
+# Hello there!!!, I'm Visaal👋
 ---
 ##### Data Science and Machine Learning Enthusiast
 ---
 ## About me
 
-- 💻 Computational Mathematics Student from **Kathmandu University**.
+- 💻 BSc. Computational Mathematics alumnus Kathmandu University.
 - 🌱 I’m currently learning about **Data Science, Machine Learning and Big Data**.
 - 📫 How to reach me? --> **[visaalpathak@gmail.com](visaalpathak@gmail.com)**.
-- 🥅 2023 Goals: Learn more about **Machine Learning** and maybe dive into **Deep Learning and AI**.
+- 🥅 2024 Goals: Learn about **Deep Learning, AI and Cloud**.
 - ⚡ Fun fact about me: I love to draw, not a good artist though.
 
 
@@ -16,6 +16,8 @@
 
 <a href="https://www.python.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a><a href="https://www.mysql.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> </a><a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a><a href="https://www.mysql.com/products/workbench/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL_Workbench" width="40" height = "40"/></a><a href="https://git-scm.com/" target = "_blank"><img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height = "40" /></a><a href="https://github.com/"><img alt="GitHub" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" width="40" height = "40" /></a><a href="https://code.visualstudio.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="40" height="40"/> </a>
 <a href="https://www.anaconda.com/" target = "_blank"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/Anaconda_Logo.png/220px-Anaconda_Logo.png" alt="anaconda" width="65" height="40"/> </a><a href="https://jupyter.org/" target = "_blank"> <img src="https://jupyter.org/assets/logos/rectanglelogo-greytext-orangebody-greymoons.svg" alt="jupyter_notebook" width="85" height="40"/> </a>
+<a href="https://spark.apache.org/docs/latest/api/python/index.html#" target = "_blank"> <img src="https://spark.apache.org/docs/latest/api/python/_static/spark-logo-reverse.png" alt="pyspark" width="85" height="40"/> </a>
+<a href="https://airflow.apache.org/" target = "_blank"> <img src="https://icon.icepanel.io/Technology/svg/Apache-Airflow.svg" alt="apache-airflow" width="85" height="40"/> </a>
 
 ---
 ### 📕 Blogs
