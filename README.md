@@ -5,9 +5,8 @@
 ## About me
 
 - 💻 BSc. Computational Mathematics alumnus Kathmandu University.
-- 🌱 I’m currently learning about **Data Science, Machine Learning and Big Data**.
+- 🌱 **Data Science, Machine Learning, Data Engineering and Big Data Enthusiast**.
 - 📫 How to reach me? --> **[visaalpathak@gmail.com](visaalpathak@gmail.com)**.
-- 🥅 2024 Goals: Learn about **Deep Learning, AI and Cloud**.
 - ⚡ Fun fact about me: I love to draw, not a good artist though.
 
 
@@ -22,12 +21,12 @@
 ---
 ### 📕 Blogs
 <!-- BLOG-POST-LIST:START -->
-- [SQLAlchemy Basics](https://visaalpathak.github.io/blog%20about%20sqlalchemy/SQLAlchemy-Basics/)
-- [Getting started with MySQL](https://visaalpathak.github.io/blog%20about%20mysql/getting-started-with-MySQL/)
-- [Getting started with airflow](https://visaalpathak.github.io/getting-started-with-apache-airflow/)
-- [Creating service for starting airflow](https://visaalpathak.github.io/systemd%20service%20for%20airflow%20webserver%20and%20scheduler/creating-airflow-services/)
+- [SQLAlchemy Basics](https://visaalpathak.github.io/blog/2022-03-12-SQLAlchemy-Basics)
+- [Getting started with MySQL](https://visaalpathak.github.io/blog/2022-03-11-getting-started-with-MySQL)
+- [Getting started with airflow](https://visaalpathak.github.io/blog/2022-04-24-getting-started-with-apache-airflow)
+- [Creating service for starting airflow](https://visaalpathak.github.io/blog/2023-04-21-creating-airflow-services)
 <!-- BLOG-POST-LIST:END -->
-* [visaalpathak.github.io](https://visaalpathak.github.io/posts/)
+* [visaalpathak.github.io](https://visaalpathak.github.io)
 ---
 ---
 ### Connect with me:
